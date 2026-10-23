@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -Iinclude
+    - -Isrc
+    - -Itests
+    - -std=c++23
+    - -DFMT_SHARED
+    - -DWITH_GZFILEOP

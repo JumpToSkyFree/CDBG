@@ -59,6 +59,13 @@ compile_commands.json
 *.bak 
 *.swp 
 
+# macOS metadata
+.DS_Store
+._*
+
+# Test scratch files
+.wtest
+
 # vcpkg
 vcpkg_installed/
 
